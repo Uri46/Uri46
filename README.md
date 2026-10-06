@@ -67,20 +67,4 @@
 | 🌀 **[Laberinto](https://github.com/Uri46/Laberinto_Python)** | Juego y algoritmos de recorrido | `Python` `Algoritmos` |
 | 🧮 **[Calculadora](https://github.com/Uri46/Calculadora)** | Calculadora modular en consola | `Python` `Lógica` |
 
----
 
-### 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uri46&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" height="150" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uri46&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" height="150" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uri46&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="145" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24&height=90&section=footer" width="100%" alt="Footer" />
-</p>
