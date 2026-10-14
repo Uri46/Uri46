@@ -8,7 +8,7 @@ Estudiante en el tramo final de la **Tecnicatura Superior en Análisis de Sistem
 
 ---
 
-## 🛠️ Tecnologías que utilizo en mis repositorios
+## 🛠️ Tecnologías
 
 - **Análisis de Sistemas y Arquitectura:** Relevamiento de requerimientos funcionales y no funcionales, modelado de bases de datos relacionales (DER y normalización), diseño de arquitectura modular, validación de datos y seguridad web (protección CSRF/XSS, autenticación y manejo de sesiones).
 - **Lenguajes:** Python 3, JavaScript (Vanilla), HTML5, CSS3.
